@@ -1,0 +1,4 @@
+*.pcm
+*Dct.cc
+*.root
+write_files
